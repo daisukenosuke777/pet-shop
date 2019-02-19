@@ -1,0 +1,56 @@
+[
+  {
+    "id": 0,
+    "name": "物理学",
+    "picture": "images/masuda.jpeg",
+    "age": "Room 102",
+    "breed": "Lesson 1",
+    "location": "10:00-11:00",
+    "teacher": "増田"
+  },
+  {
+    "id": 1,
+    "name": "電磁気学",
+    "picture": "images/otsuka.jpeg",
+    "age": "Room 203",
+    "breed": "Lesson 2",
+    "location": "11:00-12:00",
+    "teacher": "大塚"
+  },
+  {
+    "id": 2,
+    "name": "マクロ経済",
+    "picture": "images/komatsu.jpeg",
+    "age": "Room 105",
+    "breed": "Lesson 1",
+    "location": "14:00-15:00",
+    "teacher": "小松"
+  },
+  {
+    "id": 3,
+    "name": "ミクロ経済",
+    "picture": "images/komatsu.jpeg",
+    "age": "Room 301",
+    "breed": "Lesson 3",
+    "location": "16:00-17:00",
+    "teacher": "小松"
+  },
+  {
+    "id": 4,
+    "name": "体育",
+    "picture": "images/matsuoka.jpeg",
+    "age": "運動場",
+    "breed": "Lesson 2",
+    "location": "17:00-18:00",
+    "teacher": "松岡"
+  },
+  {
+    "id": 5,
+    "name": "線形代数",
+    "picture": "images/otsuka.jpeg",
+    "age": "Room 401",
+    "breed": "Lesson 2",
+    "location": "19:00-20:00",
+    "teacher": "大塚"
+  }
+]
